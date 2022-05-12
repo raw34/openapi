@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "test",
+      "uri": "/reference/test.json"
+    },
+    {
+      "type": "item",
+      "title": "Swagger Petstore",
+      "uri": "/reference/petstore.json"
+    }
+  ]
+}
