@@ -43,7 +43,7 @@
                       "firstName": "Alice",
                       "lastName": "Smith",
                       "email": "alice.smith@gmail.com",
-                      "dateOfBirth": "1997-10-31",
+                      "dateOfBirth": "1997-11-31",
                       "emailVerified": true,
                       "signUpDate": "2019-08-24"
                     }
@@ -231,7 +231,7 @@
             "firstName": "Alice",
             "lastName": "Smith",
             "email": "alice.smith@gmail.com",
-            "dateOfBirth": "1997-10-31",
+            "dateOfBirth": "1997-11-31",
             "emailVerified": true,
             "signUpDate": "2019-08-24"
           }
@@ -254,7 +254,7 @@
           "dateOfBirth": {
             "type": "string",
             "format": "date",
-            "example": "1997-10-31"
+            "example": "1997-11-31"
           },
           "emailVerified": {
             "type": "boolean",
