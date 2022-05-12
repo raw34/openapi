@@ -158,7 +158,7 @@
                       "firstName": "Bob",
                       "lastName": "Fellow",
                       "email": "bob.fellow@gmail.com",
-                      "dateOfBirth": "1996-08-24",
+                      "dateOfBirth": "1996-09-25",
                       "emailVerified": false,
                       "createDate": "2020-11-18"
                     }
@@ -207,7 +207,7 @@
                     "firstName": "Bob",
                     "lastName": "Fellow",
                     "email": "bob.fellow@gmail.com",
-                    "dateOfBirth": "1996-08-24"
+                    "dateOfBirth": "1996-09-25"
                   }
                 }
               }
