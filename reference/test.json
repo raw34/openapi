@@ -137,6 +137,15 @@
           },
           "description": "Patch user properties to update."
         }
+      },
+      "delete": {
+        "summary": "Delete User Information",
+        "operationId": "delete-users-userId",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
       }
     },
     "/user": {
